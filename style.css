@@ -73,6 +73,10 @@ section {
 
 .text-design {
     color: rgb(204, 199, 199);
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 25px;
 }
 
 .donation-flex {
@@ -105,6 +109,7 @@ section {
 .text-justify {
     text-align: justify;
     color: gray;
+    text-align: center;
 }
 
 footer {
@@ -148,4 +153,29 @@ footer h5 {
     border-bottom-right-radius: 5px;
     border: 1px solid red;
     margin-left: -5px;
+}
+
+div.box1 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.card {
+    width: 250px;
+    text-align: center;
+    margin-top: 30px;
+    box-shadow: 10px 10px 5px gray;
+
+}
+
+div.card img {
+    width: 100%;
+
+}
+
+.link-dec {
+    color: black;
+    margin-bottom: 10px;
 }
