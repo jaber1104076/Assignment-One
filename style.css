@@ -1,0 +1,74 @@
+body {
+    font-family: 'BIZ UDGothic', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    margin: 0%;
+}
+
+.top-elements {
+    text-align: center;
+    color: white;
+    margin: 100px;
+}
+
+.weight {
+    font-size: 70px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    margin-bottom: 100px;
+}
+
+.middle-element {
+    text-align: center;
+}
+
+.d-modify {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.para {
+    color: gray;
+    font-weight: 300;
+}
+
+.flex-property {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 300px;
+}
+
+.box {
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.box-design {
+    color: red;
+    border: 2px solid red;
+}
+
+#horigental-line {
+    margin: 0 400px;
+    width: 1px solid gray;
+}
+
+.text-design {
+    color: rgb(204, 199, 199);
+
+}
