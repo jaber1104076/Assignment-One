@@ -17,9 +17,9 @@ body {
 
 .button {
     text-decoration: none;
-    background-color: orangered;
+    background-color: #FF5959;
     color: white;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 5px;
 }
 
