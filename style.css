@@ -5,10 +5,13 @@ body {
     margin: 0%;
 }
 
+section {
+    margin-bottom: 100px;
+}
+
 .top-elements {
     text-align: center;
     color: white;
-    margin: 100px;
 }
 
 .weight {
@@ -70,5 +73,36 @@ body {
 
 .text-design {
     color: rgb(204, 199, 199);
+}
 
+.donation-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 50px;
+
+}
+
+.color1 {
+    background-color: #EDF5F6;
+    padding: 80px 50px;
+    border-radius: 10px;
+}
+
+.text-justify {
+    text-align: justify;
+    color: gray;
+}
+
+.color2 {
+    background-color: #FFEEEE;
+    padding: 80px 50px;
+    border-radius: 10px;
+
+}
+
+.color3 {
+    background-color: #FFF4D6;
+    padding: 80px 50px;
+    border-radius: 10px;
 }
